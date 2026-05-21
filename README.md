@@ -1,4 +1,5 @@
-E-Commerce Backend API & Guitar Shop
+E-Commerce Backend API
+
 Dự án Backend phục vụ hệ thống E-Commerce, tập trung vào thiết kế cơ sở dữ liệu có cấu trúc và phát triển RESTful API hiệu năng cao cho giao dịch thanh toán.
 
 🚀 Giới thiệu dự án
